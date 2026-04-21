@@ -1,8 +1,11 @@
-/vendor/
+**/node_modules/
+**/.next/
+**/dist/
+**/build/
+.env
 .idea/
 .vscode/
 *.log
-*.bak
-*.swp
 *.zip
 *.rar
+.DS_Store
